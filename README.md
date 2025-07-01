@@ -34,4 +34,4 @@ This project implements an Automatic Mains Failure (AMF) control system using De
 
 ## Demo Video
 
-[Click here to watch the demo](https://your-demo-video-link.com) 
+[Click here to watch the demo]([https://your-demo-video-link.com](https://drive.google.com/file/d/1qJNNb70yEEvOkLCQmNYE3rNRsvSJ8xbo/view)) 
